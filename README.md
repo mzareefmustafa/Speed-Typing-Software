@@ -1,11 +1,22 @@
-A Python program that accurately measures typing speed with auto-correction capabilities.
+# Typing Speed Measurement with Auto-Correction
 
-# Key features:
+A Python program that accurately measures typing speed and enhances your typing experience with auto-correction capabilities.
 
-Implement typing autocorrect functionality inspired by Typeracer.
+## Key Features
 
-Enable multiplayer functionality for users to race against each other in typing challenges.
+- **Auto-Correct Functionality**: Toggle auto-correction on or off, inspired by Typeracer, to match your typing preferences.
+- **Multiplayer Mode**: Race against others in real-time typing challenges for added fun and competition.
+- **Detailed Analytics**: Track progress with features like word speed analysis, sentence speed, and spelling accuracy reporting.
+- **Custom Topics**: Choose to type about topics of interest for a personalized experience.
 
-Enhance typing experience with features like progress reporting and word speed analysis.
+## How to Run the Program
+
+### Option 1: Run Locally
+1. Download the project files.
+2. Navigate to the `cats` directory in your terminal.
+3. Run the program using: python3 gui.py
+
+### Option 1: Use the following link
+1. http://127.0.0.1:31415
  
  
