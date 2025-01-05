@@ -19,6 +19,6 @@ A Python program that accurately measures typing speed and enhances your typing 
 ### Option 1: Use the following link
 1. http://127.0.0.1:31415
 
-## Best files to view my work:
+## Best files to view my work
 1. cats.py
  
