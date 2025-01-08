@@ -16,9 +16,6 @@ A Python program that accurately measures typing speed and enhances your typing 
 2. In your terminal, Navigate to the main directory folder of this project.
 3. Run the program using: python3 gui.py
 
-### Option 2: Use the following link
-1. http://127.0.0.1:31415
-
 ## Best files to view my work
 1. cats.py
  
