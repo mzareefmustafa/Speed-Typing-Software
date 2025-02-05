@@ -1,21 +1,37 @@
-# Typing Speed Measurement with Auto-Correction
+# 🐱 Typing Speed Test with Auto-Correct  
 
-A Python program that accurately measures typing speed and enhances your typing experience with auto-correction capabilities.
+A Python-based typing test that measures speed, accuracy, and even corrects your mistakes—because typos happen! Inspired by Typeracer, this project also includes a **multiplayer mode** for friendly (or fierce) typing battles.  
 
-## Key Features
+## 🚀 Features  
 
-- **Auto-Correct Functionality**: Toggle auto-correction on or off, inspired by Typeracer, to match your typing preferences.
-- **Multiplayer Mode**: Race against others in real-time typing challenges for added fun and competition.
-- **Detailed Analytics**: Track progress with features like word speed analysis, sentence speed, and spelling accuracy reporting.
-- **Custom Topics**: Choose to type about topics of interest for a personalized experience.
+- **Typing Speed & Accuracy** – Tracks WPM and correctness in real time.  
+- **Auto-Correct** – Fixes common typos using smart algorithms.  
+- **Multiplayer Mode** – Race against others and see who types fastest!  
+- **Detailed Stats** – See per-word speed, mistakes, and improvements.  
+- **Custom Topics** – Practice typing on subjects you actually care about.  
 
-## How to Run the Program
+## 🛠 How to Run  
 
-### Option 1: Run Locally
-1. Download the project files.
-2. In your terminal, Navigate to the main directory folder of this project.
-3. Run the program using: python3 gui.py
+1️⃣ **Clone the repo:**  
+```sh
+git clone https://github.com/YOUR_GITHUB_USERNAME/cats-typing-project.git  
+cd cats-typing-project
+```
 
-## Best files to view my work
-1. cats.py
- 
+2️⃣ **Run the GUI:**  
+```sh
+python3 gui.py
+```
+
+3️⃣ **Want multiplayer?**  
+Edit cats.py and set:
+``` enable_multiplayer = True ```
+Then run python3 gui.py and start racing!
+
+📂 Key Files
+
+- **cats.py** – The main typing test logic.
+- **utils.py** – Handy text-processing functions.
+- **gui.py** – Web interface for the test.
+
+
