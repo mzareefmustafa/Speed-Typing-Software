@@ -6,7 +6,7 @@ A Python-based typing test that measures speed, accuracy, and even corrects your
 
 - **Typing Speed & Accuracy** – Tracks WPM and correctness in real time.  
 - **Auto-Correct** – Fixes common typos using smart algorithms.  
-- **Multiplayer Mode** – Race against others and see who types fastest!  
+- **Multiplayer Mode** – Race against others and see who types fastest!
 - **Detailed Stats** – See per-word speed, mistakes, and improvements.  
 - **Custom Topics** – Practice typing on subjects you actually care about.  
 
@@ -28,7 +28,7 @@ Edit cats.py and set:
 ``` enable_multiplayer = True ```
 Then run python3 gui.py and start racing!
 
-📂 Key Files
+## 📂 Key Files
 
 - **cats.py** – The main typing test logic.
 - **utils.py** – Handy text-processing functions.
