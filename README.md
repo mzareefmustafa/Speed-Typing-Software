@@ -1,6 +1,6 @@
 # 🐱 Typing Speed Test with Auto-Correct  
 
-A Python-based typing test that measures speed, accuracy, and even corrects your mistakes—because typos happen! Inspired by Typeracer, this project also includes a **multiplayer mode** for friendly (or fierce) typing battles.  
+A Python-based typing test that measures speed, accuracy, and even corrects your mistakes. Inspired by Typeracer, this project also includes a **multiplayer mode** for typing battles.  
 
 ## 🚀 Features  
 
@@ -14,8 +14,8 @@ A Python-based typing test that measures speed, accuracy, and even corrects your
 
 1️⃣ **Clone the repo:**  
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/cats-typing-project.git  
-cd cats-typing-project
+git clone https://github.com/mzareefmustafa/speed-typing-software.git  
+cd speed-typing-software
 ```
 
 2️⃣ **Run the GUI:**  
